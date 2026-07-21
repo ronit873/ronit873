@@ -9,10 +9,7 @@
 <a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
+
 # 💫 About Me:
 👋 Hi, Ronit Mishra this side <br><br>🎓 I’m currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence from Institute of Engineering and Management, Kolkata.<br><br>💻 I am a Full Stack Developer skilled in:<br>• HTML<br>• CSS<br>• JavaScript<br>• React.js<br>• MongoDB<br>• Python<br>• Java<br>• C<br><br>🤖 I also have knowledge in:<br>• Machine Learning<br>• AI Model Development<br>• Backend Development<br>• Modern UI/UX Design
 
